@@ -1,7 +1,8 @@
 * {
     box-sizing: border-box;
     padding: 0;
-    margin: 0;
+    margin: 0 auto;
+    max-width:1200px;
 }
 
 body {
@@ -141,6 +142,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    top:0px;
 }
 
 .online-reputation-management {
