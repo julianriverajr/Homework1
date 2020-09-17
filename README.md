@@ -5,7 +5,7 @@
 In this homework assignment, we were asked to refactor a couple files of code; that is, to make them look better without changing the function, and to make elements which do not function into functioning elements.
 
 This involved 
-* rename certain HTML elements from <divs> to more descriptive, semantic names
+* renaming certain HTML elements from <divs> to more descriptive, semantic names
 
 * consolidating or deleting unnecessary classes or IDs
 
@@ -24,11 +24,12 @@ This involved
 * folloing the Scout Rule as much as I could
 
 ## Screenshot of my site
-![Horiseon](.assets/horiseon-screenshot.png)
+![Horiseon](assets/horiseon-screenshot.png)
 
-## Links 
-# Link to GitHub Repo
+# Links 
+
+* Link to GitHub Repo
   * https://github.com/julianriverajr/Homework1
 
-# Link to Site
+* Link to Site
   * https://julianriverajr.github.io/Homework1/
