@@ -1,11 +1,12 @@
-## Homework 01: Code Refactor
+# Homework 01: Code Refactor
 
-# What I Did
+## What I Did
 
 In this homework assignment, we were asked to refactor a couple files of code; that is, to make them look better without changing the function, and to make elements which do not function into functioning elements.
 
 This involved 
-* renaming certain HTML elements from <divs> to more descriptive, semantic names
+
+* renaming certain HTML elements from &lt;divs&gt; to more descriptive, semantic names
 
 * consolidating or deleting unnecessary classes or IDs
 
@@ -21,9 +22,9 @@ This involved
 
 * making sure the site is live as well as the repo on github
 
-* folloing the Scout Rule as much as I could
+* following the Scout Rule as much as I could
 
-## Screenshot of my site
+## Screenshot of My Site
 ![Horiseon](assets/horiseon-screenshot.png)
 
 # Links 
