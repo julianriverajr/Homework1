@@ -27,6 +27,10 @@ This involved
 ## Screenshot of My Site
 ![Horiseon](assets/horiseon-screenshot.png)
 
+## Technologies Used
+* HTML
+* CSS
+
 ## Links 
 
 * Link to GitHub Repo
