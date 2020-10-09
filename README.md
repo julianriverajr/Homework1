@@ -27,10 +27,14 @@ This involved
 ## Screenshot of My Site
 ![Horiseon](assets/horiseon-screenshot.png)
 
-# Links 
+## Links 
 
 * Link to GitHub Repo
   * https://github.com/julianriverajr/Homework1
 
 * Link to Site
   * https://julianriverajr.github.io/Homework1/
+  
+  
+### Contact Info
+email: julianriverajr@gmail.com
